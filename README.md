@@ -38,6 +38,12 @@ The model achieves near-perfect classification using only gene expression data. 
 - **Explainability**: SHAP
 - **Visualization**: Matplotlib, Seaborn
 
+## 📥 Dataset
+The dataset is publicly available from **UCSC Xena**:
+- Gene Expression: TCGA-BRCA STAR-FPKM-UQ
+**Download link**:  
+[TCGA-BRCA.star_fpkm-uq.tsv.gz](https://xenabrowser.net/datapages/?dataset=TCGA-BRCA.star_fpkm-uq.tsv&host=https%3A%2F%2Fgdc.xenahubs.net)
+
 ## How to Run
 ```bash
 # 1. Clone the repo
